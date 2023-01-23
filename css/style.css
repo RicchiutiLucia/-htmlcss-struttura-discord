@@ -124,6 +124,7 @@ section{
     padding: 50px;
     
     
+    
 }
 
 .flex .contenutoA{
@@ -161,6 +162,36 @@ section{
     width: 10%;
     height: 400px;
     background-color: #1FAEA6;
+    
+}
+hr{
+    color: white;
+    margin: 30px 0px;
+}
+
+
+.flex2{
+    display: flex;
+    justify-content: space-between;
+    background-color: #7FFFD4;
+    align-content:center;
+    max-width: 1500px;
+}
+
+h5{
+    border: 2px dashed black;
+
+}
+.logo-footer{
+    background-color: #FFB6C1;
+    padding:5px;
+    margin:10px 0px;
+}
+.bottone-footer{
+    background-color: #FFB6C1;
+    padding: 5px;
+    margin:10px 0px;
+
     
 }
 
