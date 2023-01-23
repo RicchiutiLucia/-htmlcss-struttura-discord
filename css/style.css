@@ -28,23 +28,26 @@
     align-content: center;
     padding: 20px;
 }
-
-.flex-conteiner h4{
-    width: 20%;
-    height: 20%;
+ h4{
+    height: 30%;
     border: dashed 2px black;
     padding: 5px;
-
 }
+
 
 .flex-conteiner .navigazione{
     text-align: center;
-    
+    width: 60%; 
+
+}
+.flex-conteiner .logo{
+    width: 20%;
 
 }
 
-.login{
+.flex-conteiner .login{
     text-align: right;
+    width: 20%;
 }
 
 .header-bottom{
@@ -52,15 +55,15 @@
     height: 300px;
     
     
+    
 }
 
-.text {
+section {
     height: 200px;
     background-color:#E27BE2;
     border: 2px dashed black;
     width: 600px;
     margin: 0 auto;
-
 }
 
 
