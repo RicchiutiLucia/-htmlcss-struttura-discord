@@ -99,6 +99,21 @@ section{
     background-color: #D3D3D3;
 }
 
+.contenuto2{
+   background-color:#D3D3D3 ;
+   padding: 30px;
+}
+
+    
+.sotto-contenuto{
+    height: 200px;
+    background-color:#228A22;
+    border: 2px dashed black;
+    width: 95%;
+    height: 800px;
+    margin: 0 auto;
+}
+
 
 
 
